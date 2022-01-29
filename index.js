@@ -6,7 +6,7 @@
 
 
 const
-    PORT = process.env.PORT || CONST.web_port,
+    PORT = process.env.PORT ||  "22533",
     express = require('express'),
     app = express(),
     IO = require('socket.io'),
