@@ -1,0 +1,3097 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "7339d947a81d4644e4a983daf1bd6fc8",
+    "loginToken": "f1e6bf78781a104389870b71c0f9af49",
+    "logs": [
+      {
+        "time": "2022-01-28T05:05:27.751Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"17.0.1\" 2021-. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-01-28T05:16:27.139Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"17.0.1\" 2021-. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-01-28T05:16:40.019Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"17.0.1\" 2021-. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-01-28T05:46:38.681Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-28T05:58:48.705Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-28T06:00:18.971Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T06:01:21.412Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:01:21.595Z",
+        "type": "SUCCESS",
+        "message": "e53c7594118fa7c5 GPS Updated"
+      },
+      {
+        "time": "2022-01-28T06:02:13.594Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:02:34.795Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:02:45.716Z",
+        "type": "INFO",
+        "message": "Recieving sound2969135331734696983.mp3 from e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:04:11.378Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:04:11.583Z",
+        "type": "SUCCESS",
+        "message": "e53c7594118fa7c5 Contacts Updated - 113 New Contacts Added"
+      },
+      {
+        "time": "2022-01-28T06:04:20.850Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:04:25.440Z",
+        "type": "SUCCESS",
+        "message": "e53c7594118fa7c5 Call Log Updated - 1425 New Calls"
+      },
+      {
+        "time": "2022-01-28T06:04:27.825Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:04:28.398Z",
+        "type": "SUCCESS",
+        "message": "e53c7594118fa7c5 Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2022-01-28T06:04:55.444Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T06:04:58.809Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T06:05:07.526Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T06:05:58.031Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T06:05:58.032Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Running Queued Commands"
+      },
+      {
+        "time": "2022-01-28T06:05:58.040Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:06:22.004Z",
+        "type": "SUCCESS",
+        "message": "e53c7594118fa7c5 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-01-28T06:06:29.164Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T06:06:52.358Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:06:52.618Z",
+        "type": "SUCCESS",
+        "message": "e53c7594118fa7c5 WiFi Updated - 10 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2022-01-28T06:07:07.588Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:07:07.701Z",
+        "type": "SUCCESS",
+        "message": "e53c7594118fa7c5 Permissions Updated"
+      },
+      {
+        "time": "2022-01-28T06:07:22.970Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:07:23.206Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-01-28T06:07:30.253Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:07:30.384Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-01-28T06:07:55.854Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:07:57.066Z",
+        "type": "SUCCESS",
+        "message": "e53c7594118fa7c5 SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-01-28T06:09:19.643Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T06:29:24.531Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T06:32:49.101Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T06:34:55.483Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T06:38:07.232Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:38:07.327Z",
+        "type": "SUCCESS",
+        "message": "e53c7594118fa7c5 Permissions Updated"
+      },
+      {
+        "time": "2022-01-28T06:39:11.164Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T06:39:39.851Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T06:39:39.853Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Running Queued Commands"
+      },
+      {
+        "time": "2022-01-28T06:39:39.854Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:39:50.710Z",
+        "type": "INFO",
+        "message": "Recieving sound8544396883039010154.mp3 from e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:40:20.712Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T06:41:27.687Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T06:41:27.689Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Running Queued Commands"
+      },
+      {
+        "time": "2022-01-28T06:41:27.690Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:41:38.034Z",
+        "type": "INFO",
+        "message": "Recieving sound1727003761923509111.mp3 from e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-28T06:42:24.192Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T06:44:31.901Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T06:44:31.974Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T06:44:32.015Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T06:44:32.436Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T06:44:38.534Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T06:50:30.523Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T06:50:48.033Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T06:57:39.474Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T06:58:28.309Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T06:59:12.741Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T06:59:16.970Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T06:59:16.988Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T06:59:46.973Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:00:58.855Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:01:54.033Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:03:53.450Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:03:54.690Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:03:54.750Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:03:55.500Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:03:58.982Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:04:13.318Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:04:13.334Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:05:04.092Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:05:49.571Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:06:19.768Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:07:35.760Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:08:05.909Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:09:14.681Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:09:21.244Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:09:51.637Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:12:28.944Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:12:59.108Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:14:32.447Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:15:02.630Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:16:48.740Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:16:48.789Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:16:48.806Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:16:48.821Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:16:48.835Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:17:18.969Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:18:22.744Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:18:52.912Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:20:05.417Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:20:05.472Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:20:35.605Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:21:07.108Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:21:37.502Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:24:32.835Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:25:03.001Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:28:30.781Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:28:30.854Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:28:30.892Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:28:30.918Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:29:01.091Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:31:12.399Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:31:42.578Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:32:39.230Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:32:39.287Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:32:39.306Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:33:09.493Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:35:45.398Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:35:45.456Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:36:15.588Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:36:22.561Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:36:23.503Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:36:23.518Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:36:53.506Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:38:36.308Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:38:36.370Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:38:42.418Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:38:42.485Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:39:12.527Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:43:27.294Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:48:07.318Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:49:45.924Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:50:24.514Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:51:05.195Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:51:15.318Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:51:45.734Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:51:55.814Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:52:25.983Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:52:46.157Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:53:03.965Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:53:06.220Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:53:21.342Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:53:44.825Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:54:23.620Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:55:02.344Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:55:02.405Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:55:08.224Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:55:14.302Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:55:14.317Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:55:18.280Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:56:14.215Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:56:31.639Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:56:37.587Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:57:08.196Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:57:25.709Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:58:15.252Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T07:58:56.445Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T07:58:56.495Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:59:01.365Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:59:11.386Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T07:59:59.825Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:00:39.843Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:01:35.360Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:01:35.534Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:01:36.809Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:01:49.293Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:02:18.884Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:02:48.870Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:03:13.873Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:03:15.512Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:03:36.095Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:03:37.229Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:03:37.244Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:03:37.256Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:04:28.957Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:05:16.557Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:05:16.614Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:05:37.441Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:06:02.426Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:06:02.462Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:06:31.715Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:06:41.754Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:07:21.872Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:08:25.178Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:08:25.284Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:08:54.364Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:09:10.336Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:09:56.313Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:10:40.354Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:10:57.449Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:11:01.451Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:11:01.464Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:12:28.259Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:13:03.172Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:13:03.219Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:13:18.868Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:13:40.378Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:14:19.412Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:14:19.466Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:14:40.995Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:15:40.816Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:16:12.943Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:16:25.439Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:16:32.308Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:16:33.027Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:16:55.448Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:16:59.641Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:17:03.634Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:17:04.840Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:17:05.374Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:17:14.485Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:17:14.504Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:17:38.749Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:17:41.627Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:18:11.432Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:18:11.447Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:18:32.126Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:19:03.557Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:19:03.604Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:19:11.539Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:19:11.557Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:19:40.417Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:20:04.184Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:20:04.260Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:20:15.540Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:20:15.558Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:20:15.615Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:20:16.866Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:20:16.880Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:20:48.976Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:20:48.991Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:21:37.233Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:21:55.908Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:22:14.020Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:22:24.974Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:22:29.275Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:22:34.088Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:23:04.074Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:24:33.798Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:24:37.434Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:25:07.420Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:25:26.945Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:25:30.018Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:26:00.716Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:26:49.242Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:26:53.199Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:27:23.869Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:28:40.143Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:28:40.487Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:29:10.467Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:30:03.120Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:30:33.287Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:31:47.159Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:32:17.322Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:33:40.097Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:33:45.611Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:34:16.242Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:35:02.773Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:35:32.957Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:36:11.973Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:37:32.343Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:38:16.385Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:38:46.537Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:39:29.265Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:39:59.346Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:41:42.281Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:43:02.598Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:43:46.765Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:43:46.919Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:43:46.939Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:44:16.942Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:45:27.242Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:45:57.550Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:47:02.123Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:47:07.661Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:47:07.679Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:47:37.683Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:48:36.128Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:49:06.285Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:53:06.368Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:53:06.431Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:53:06.453Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:53:06.468Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:53:36.601Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:54:34.958Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:55:05.170Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T08:59:48.700Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T08:59:48.747Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T08:59:48.768Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:00:19.111Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:01:29.991Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:02:00.163Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:04:31.845Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:04:52.848Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:04:52.866Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:05:22.853Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:08:37.930Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:09:08.097Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:09:40.321Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:10:10.746Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:11:20.843Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:11:20.918Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:21.010Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:39.897Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:39.918Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:41.020Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:41.058Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:46.138Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:46.162Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:49.289Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:49.308Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:52.177Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:52.199Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:56.988Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:11:57.042Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:12:09.281Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:12:09.352Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:12:39.406Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:13:20.007Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:13:50.158Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:14:52.420Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:14:52.491Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:14:52.526Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:15:23.015Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:17:27.236Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:17:57.418Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:20:39.137Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:20:39.198Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:20:39.218Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:21:09.335Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:21:49.572Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:21:54.172Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:21:56.158Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:22:15.195Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:22:15.212Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:22:45.786Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:24:30.258Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:25:00.425Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:29:13.714Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:29:43.896Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T09:31:08.503Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T09:31:14.943Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:31:24.981Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T09:31:46.278Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T17:13:44.064Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-28T17:15:51.590Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T17:16:57.895Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:17:25.849Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:18:38.468Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:20:19.320Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:22:00.086Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:23:20.787Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:24:11.062Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:25:41.801Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:26:22.050Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:27:02.375Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:28:22.857Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:29:23.484Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:30:54.210Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:31:24.419Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:32:35.181Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:33:25.454Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:34:56.398Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:35:56.773Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T17:36:16.865Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:36:29.429Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-28T17:38:07.827Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T17:38:07.887Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:38:07.905Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:38:19.308Z",
+        "type": "ERROR",
+        "message": "Build Failed - File Patch Error - READ"
+      },
+      {
+        "time": "2022-01-28T17:56:01.867Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-28T17:56:01.927Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:01.981Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.020Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.069Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.109Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.123Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.145Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.161Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.180Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.197Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.214Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.238Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.253Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.271Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:02.292Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T17:56:42.687Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-28T17:57:03.395Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      },
+      {
+        "time": "2022-01-28T18:06:34.281Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-28T18:47:02.570Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-28T19:17:38.637Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T19:18:31.227Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T19:19:00.425Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:19:00.469Z",
+        "type": "ERROR",
+        "message": "950e0ba42ff1b24f GPS Recieved No Data"
+      },
+      {
+        "time": "2022-01-28T19:19:00.472Z",
+        "type": "ERROR",
+        "message": "950e0ba42ff1b24f GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-01-28T19:19:11.535Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T19:19:24.797Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:19:24.832Z",
+        "type": "ERROR",
+        "message": "950e0ba42ff1b24f GPS Recieved No Data"
+      },
+      {
+        "time": "2022-01-28T19:19:24.834Z",
+        "type": "ERROR",
+        "message": "950e0ba42ff1b24f GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-01-28T19:19:51.559Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:19:51.579Z",
+        "type": "ERROR",
+        "message": "950e0ba42ff1b24f GPS Recieved No Data"
+      },
+      {
+        "time": "2022-01-28T19:19:51.580Z",
+        "type": "ERROR",
+        "message": "950e0ba42ff1b24f GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-01-28T19:19:51.739Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T19:20:12.083Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:20:12.259Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f Contacts Updated - 113 New Contacts Added"
+      },
+      {
+        "time": "2022-01-28T19:20:28.078Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:20:40.495Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2022-01-28T19:20:41.754Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T19:20:42.338Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T19:21:09.292Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:21:09.338Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f Permissions Updated"
+      },
+      {
+        "time": "2022-01-28T19:25:17.816Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T19:25:37.645Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T19:26:42.253Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:26:42.326Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f GPS Updated"
+      },
+      {
+        "time": "2022-01-28T19:27:03.097Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:27:03.129Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f GPS Updated"
+      },
+      {
+        "time": "2022-01-28T19:27:17.124Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:27:22.330Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f Apps Updated"
+      },
+      {
+        "time": "2022-01-28T19:27:34.136Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:28:04.450Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:28:36.455Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:29:58.403Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T19:31:45.190Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T19:32:36.991Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:35:53.436Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T19:36:09.440Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T19:36:53.045Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:38:17.553Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:40:09.943Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T19:40:25.077Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T19:40:34.231Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T19:46:24.292Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T19:46:24.314Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T19:48:23.483Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T19:48:38.234Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T19:48:42.834Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:01:41.479Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T20:03:52.394Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T20:04:03.172Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T20:04:13.924Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:30:10.223Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T20:31:43.963Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T20:31:54.310Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T20:32:04.547Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:32:22.288Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:32:49.387Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T20:34:13.619Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T20:35:35.300Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:35:35.435Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f Permissions Updated"
+      },
+      {
+        "time": "2022-01-28T20:36:19.981Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T20:36:27.370Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T20:36:50.835Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:38:32.555Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T20:41:00.717Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T20:41:00.738Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T20:41:14.675Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T20:41:15.239Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T20:43:08.883Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T20:43:53.232Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T20:44:07.505Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:44:26.038Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T20:48:42.309Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T20:48:43.398Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Recieved"
+      },
+      {
+        "time": "2022-01-28T20:49:00.370Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T20:49:54.963Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T20:49:54.964Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Running Queued Commands"
+      },
+      {
+        "time": "2022-01-28T20:49:54.966Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:50:24.238Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:54:26.725Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T20:54:43.018Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T20:55:36.963Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:55:53.093Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-01-28T20:56:07.737Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:56:20.850Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-01-28T20:56:35.267Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:56:35.514Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-01-28T20:57:05.758Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:57:06.040Z",
+        "type": "INFO",
+        "message": "Recieving File From950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:57:06.082Z",
+        "type": "SUCCESS",
+        "message": "File From950e0ba42ff1b24f Saved"
+      },
+      {
+        "time": "2022-01-28T20:57:49.047Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:57:49.329Z",
+        "type": "INFO",
+        "message": "Recieving File From950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:57:49.354Z",
+        "type": "SUCCESS",
+        "message": "File From950e0ba42ff1b24f Saved"
+      },
+      {
+        "time": "2022-01-28T20:58:37.971Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:58:38.151Z",
+        "type": "INFO",
+        "message": "Recieving File From950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:58:38.172Z",
+        "type": "SUCCESS",
+        "message": "File From950e0ba42ff1b24f Saved"
+      },
+      {
+        "time": "2022-01-28T20:59:04.749Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T20:59:12.839Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T20:59:33.911Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T20:59:43.047Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-28T20:59:48.894Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-28T21:00:17.821Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T21:00:20.657Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-01-28T21:00:31.209Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T21:00:33.871Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-01-28T21:00:48.591Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T21:00:51.072Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-01-28T21:01:21.386Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T21:01:24.771Z",
+        "type": "INFO",
+        "message": "Recieving File From950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T21:01:24.790Z",
+        "type": "SUCCESS",
+        "message": "File From950e0ba42ff1b24f Saved"
+      },
+      {
+        "time": "2022-01-28T21:04:47.843Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T21:04:55.000Z",
+        "type": "INFO",
+        "message": "Recieving File From950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-28T21:04:55.030Z",
+        "type": "SUCCESS",
+        "message": "File From950e0ba42ff1b24f Saved"
+      },
+      {
+        "time": "2022-01-28T21:08:27.956Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-29T02:04:15.598Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-29T02:04:57.783Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:04:58.310Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:04:58.401Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:04:59.933Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:06:10.736Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:07:20.432Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:11:22.425Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-29T02:11:22.500Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f GPS Updated"
+      },
+      {
+        "time": "2022-01-29T02:11:34.806Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-29T02:11:40.417Z",
+        "type": "INFO",
+        "message": "Receiving sound6201729311190937780.mp3 from 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-29T02:12:20.741Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:13:30.460Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-29T02:13:57.440Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-29T02:14:12.913Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:14:14.954Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:15:06.463Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:15:44.541Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-29T02:17:28.805Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-29T02:17:44.105Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:17:44.761Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:17:47.332Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:18:05.869Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:18:13.145Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f KeyLogger Received"
+      },
+      {
+        "time": "2022-01-29T02:18:13.440Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:18:28.821Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f KeyLogger Received"
+      },
+      {
+        "time": "2022-01-29T02:18:28.834Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:18:31.740Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f KeyLogger Received"
+      },
+      {
+        "time": "2022-01-29T02:18:49.051Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f KeyLogger Received"
+      },
+      {
+        "time": "2022-01-29T02:18:49.068Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:18:56.586Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:18:58.445Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:19:01.148Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f KeyLogger Received"
+      },
+      {
+        "time": "2022-01-29T02:19:01.158Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:19:02.297Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f KeyLogger Received"
+      },
+      {
+        "time": "2022-01-29T02:19:02.839Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f KeyLogger Received"
+      },
+      {
+        "time": "2022-01-29T02:19:03.284Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f KeyLogger Received"
+      },
+      {
+        "time": "2022-01-29T02:19:35.843Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:19:45.418Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:19:57.226Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:19:57.761Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:20:42.871Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-29T02:20:42.929Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f Permissions Updated"
+      },
+      {
+        "time": "2022-01-29T02:21:38.042Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-29T02:21:38.117Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f SENT SMS"
+      },
+      {
+        "time": "2022-01-29T02:22:05.965Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:22:10.278Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:22:12.901Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f KeyLogger Received"
+      },
+      {
+        "time": "2022-01-29T02:22:12.912Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:22:13.407Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:22:13.822Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f KeyLogger Received"
+      },
+      {
+        "time": "2022-01-29T02:22:15.968Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:22:41.435Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-29T02:22:43.003Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Connected"
+      },
+      {
+        "time": "2022-01-29T02:23:37.285Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:41.277Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:44.755Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:44.854Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:46.285Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:46.599Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:48.027Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:48.129Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:49.773Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:49.966Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:51.506Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:51.820Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:53.312Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:53.658Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:55.266Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:55.706Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:57.247Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:57.550Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:23:58.352Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:24:53.507Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 950e0ba42ff1b24f"
+      },
+      {
+        "time": "2022-01-29T02:24:53.669Z",
+        "type": "SUCCESS",
+        "message": "950e0ba42ff1b24f SENT SMS"
+      },
+      {
+        "time": "2022-01-29T02:24:57.257Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Notification Received"
+      },
+      {
+        "time": "2022-01-29T02:25:01.659Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:25:02.376Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:25:03.808Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:25:05.446Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:25:38.804Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:25:40.669Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:25:40.765Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:25:43.444Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:26:25.610Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:27:41.404Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:34:25.343Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:34:25.539Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:34:28.112Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T02:34:28.818Z",
+        "type": "INFO",
+        "message": "950e0ba42ff1b24f Disconnected"
+      },
+      {
+        "time": "2022-01-29T02:46:33.052Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/apktool.jar\" b \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled\" -o \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/assets/webpublic/build.apk\"\nW: Unknown file type, ignoring: /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/smali/.DS_Store\nS: WARNING: Could not write to (/Users/nhakseakleang/Library/apktool/framework), using /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/ instead...\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\nW: /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/AndroidManifest.xml:22: error: No resource identifier found for attribute 'requestLegacyExternalStorage' in package 'android'\nW: \nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 1): [/var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/brut_util_Jar_4878398728991684816.tmp, p, --forced-package-id, 127, --min-sdk-version, 16, --target-sdk-version, 32, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/APKTOOL1292838856915737013.tmp, -0, arsc, -0, png, -0, arsc, -I, /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/1.apk, -S, /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/res, -M, /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2022-01-29T02:51:38.310Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/apktool.jar\" b \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled\" -o \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/assets/webpublic/build.apk\"\nW: Unknown file type, ignoring: /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/smali/.DS_Store\nS: WARNING: Could not write to (/Users/nhakseakleang/Library/apktool/framework), using /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/ instead...\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\nW: /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/AndroidManifest.xml:22: error: No resource identifier found for attribute 'requestLegacyExternalStorage' in package 'android'\nW: \nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 1): [/var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/brut_util_Jar_5424746208122295806.tmp, p, --forced-package-id, 127, --min-sdk-version, 16, --target-sdk-version, 32, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/APKTOOL2614329971103934277.tmp, -0, arsc, -0, png, -0, arsc, -I, /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/1.apk, -S, /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/res, -M, /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2022-01-29T02:53:46.664Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/apktool.jar\" b \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled\" -o \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/assets/webpublic/build.apk\"\nS: WARNING: Could not write to (/Users/nhakseakleang/Library/apktool/framework), using /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/ instead...\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\nW: /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/AndroidManifest.xml:22: error: No resource identifier found for attribute 'requestLegacyExternalStorage' in package 'android'\nW: \nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 1): [/var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/brut_util_Jar_2535578488374430419.tmp, p, --forced-package-id, 127, --min-sdk-version, 16, --target-sdk-version, 32, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/APKTOOL6205280629034475852.tmp, -0, arsc, -0, png, -0, arsc, -I, /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/1.apk, -S, /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/res, -M, /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2022-01-29T02:58:15.119Z",
+        "type": "SUCCESS",
+        "message": "Build Succeeded!"
+      },
+      {
+        "time": "2022-01-29T02:59:43.531Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Connected"
+      },
+      {
+        "time": "2022-01-29T03:00:32.923Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T03:01:02.627Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Received"
+      },
+      {
+        "time": "2022-01-29T03:01:23.314Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-29T03:01:33.886Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-29T03:01:46.385Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-29T03:01:54.944Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From e53c7594118fa7c5"
+      },
+      {
+        "time": "2022-01-29T03:11:22.198Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/apktool.jar\" b \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled\" -o \"/Users/nhakseakleang/WorkPlace/Android/L3MON/server/assets/webpublic/build.apk\"\nS: WARNING: Could not write to (/Users/nhakseakleang/Library/apktool/framework), using /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/ instead...\nS: Please be aware this is a volatile directory and frameworks could go missing, please utilize --frame-path if the default storage directory is unavailable\nW: /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/AndroidManifest.xml:22: error: No resource identifier found for attribute 'requestLegacyExternalStorage' in package 'android'\nW: \nbrut.androlib.AndrolibException: brut.common.BrutException: could not exec (exit code = 1): [/var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/brut_util_Jar_6811901440696526945.tmp, p, --forced-package-id, 127, --min-sdk-version, 16, --target-sdk-version, 32, --version-code, 1, --version-name, 1.0, --no-version-vectors, -F, /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/APKTOOL2064294307091174420.tmp, -0, arsc, -0, png, -0, arsc, -I, /var/folders/tp/jv7vwrws4wd010rp_c6ds3tw0000gr/T/1.apk, -S, /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/res, -M, /Users/nhakseakleang/WorkPlace/Android/L3MON/server/app/factory/decompiled/AndroidManifest.xml]\n"
+      },
+      {
+        "time": "2022-01-29T03:11:58.841Z",
+        "type": "SUCCESS",
+        "message": "Build Succeeded!"
+      },
+      {
+        "time": "2022-01-29T03:14:56.676Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Received"
+      },
+      {
+        "time": "2022-01-29T03:14:56.696Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Received"
+      },
+      {
+        "time": "2022-01-29T03:14:56.713Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Received"
+      },
+      {
+        "time": "2022-01-29T03:15:15.441Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Received"
+      },
+      {
+        "time": "2022-01-29T03:15:15.483Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Notification Received"
+      },
+      {
+        "time": "2022-01-29T03:18:31.913Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T03:18:34.772Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T03:18:37.148Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 RecentOpenApps Received"
+      },
+      {
+        "time": "2022-01-29T03:18:37.745Z",
+        "type": "INFO",
+        "message": "e53c7594118fa7c5 Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "e53c7594118fa7c5",
+      "firstSeen": "2022-01-28T06:00:18.960Z",
+      "lastSeen": "2022-01-29T03:18:37.747Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.43.1",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-N9600",
+          "manufacture": "samsung",
+          "version": "10"
+        }
+      }
+    },
+    {
+      "clientID": "950e0ba42ff1b24f",
+      "firstSeen": "2022-01-28T19:17:38.597Z",
+      "lastSeen": "2022-01-29T02:34:28.819Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.43.1",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-N9600",
+          "manufacture": "samsung",
+          "version": "10"
+        }
+      }
+    }
+  ]
+}
